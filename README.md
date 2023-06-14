@@ -29,7 +29,7 @@ I'm a Software Engineer. <br>
 
 
 ### Version control
-- Git, Github, Gitlab, Git flow
+- Git, GitHub, GitLab, Git flow
 
 ### Programming Language
 - Python, Matlab
