@@ -70,8 +70,8 @@ I'm a Software Engineer. <br>
 <!--   <img src="https://img.icons8.com/color/48/4a90e2/c-programming.png"/>
   <img src="https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png"/> -->
   
-![image](https://github.com/mrisland112/mrisland112/assets/28065019/b0fc0c41-86c3-486d-b9fb-7db05fc6b747)
-![image](https://github.com/mrisland112/mrisland112/assets/28065019/b2d3515c-d048-4d02-a80f-ae703cbff181)
+![image](https://github.com/mrisland112/intro/assets/28065019/b0fc0c41-86c3-486d-b9fb-7db05fc6b747)
+![image](https://github.com/mrisland112/intro/assets/28065019/b2d3515c-d048-4d02-a80f-ae703cbff181)
 ![image](https://github.com/mrisland112/intro/assets/28065019/4574edf4-c2a4-48a7-9182-379036b56069)
 ![image](https://github.com/mrisland112/intro/assets/28065019/503f6626-059d-409e-83a9-54b7925c0809)
 ![image](https://github.com/mrisland112/intro/assets/28065019/2ffd65bd-ffcd-46bc-be59-37518c309c44)
