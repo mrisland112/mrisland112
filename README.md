@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1>Hey there, I'm <a  href="https://github.com/mrisland112">Nash </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-[![linkedin badge](https://img.shields.io/badge/Nash-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/nash-x-4229b7227/)
+[![linkedin badge](https://img.shields.io/badge/Nash-30302f?style=flat&logo=linkedin)](https://www.linkedin.com)
 [![Gmail Badge](https://img.shields.io/badge/nash.ncku@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:nash.ncku@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=mrisland11&style=plastic" />
 
